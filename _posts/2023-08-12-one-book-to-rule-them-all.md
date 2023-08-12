@@ -6,6 +6,8 @@ tags:
   - religion
   - book
   - bible
+header:
+  image: /assets/images/00067-2695958150.png
 ---
 
 ### What is the Bible?
