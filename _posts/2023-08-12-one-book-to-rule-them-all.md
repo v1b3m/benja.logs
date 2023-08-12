@@ -1,7 +1,7 @@
 ---
 title: "One Text to Rule Them All?!"
 categories:
-  - Blog
+  - blog
 tags:
   - religion
   - book
@@ -12,11 +12,11 @@ header:
 
 ### What is the Bible?
 
-The Bible is a collection of religious texts and scriptures considered sacred by Judaism and Christianity. It is composed of two main sections: the Old Testament and the New Testament. The contents of the Bible vary slightly between different religious traditions and denominations.
+The Bible is a collection of religious texts and scriptures considered sacred by Judaism and Christianity. It is composed of two main sections: the **Old Testament** and the **New Testament**. The contents of the Bible vary slightly between different religious traditions and denominations.
 
 1. **Old Testament:** Also known as the Hebrew Bible, the Old Testament contains religious texts that were written before the birth of Jesus Christ. It includes historical accounts, laws, poetry, prophecies, and wisdom literature. The Old Testament is foundational to Judaism and is also an important part of the Christian Bible.
 
-2. **New Testament:** The New Testament focuses on the life, teachings, death, and resurrection of Jesus Christ, as well as the early Christian church. It includes the four Gospels (Matthew, Mark, Luke, and John), which are accounts of Jesus' life and teachings, as well as the Acts of the Apostles, letters (epistles) written by early Christian leaders like Paul, Peter, and John, and the Book of Revelation, which contains apocalyptic visions.
+2. **New Testament:** The New Testament focuses on the life, teachings, death, and resurrection of Jesus Christ, as well as the early Christian church. It includes the four Gospels (Matthew, Mark, Luke, and John), which are accounts of Jesus' life and teachings, as well as the Acts of the Apostles, letters (epistles) written by early Christian leaders like Paul, Peter, and John, and the Book of Revelations, which contains apocalyptic visions.
 
 The Bible has been translated into numerous languages and has had a profound influence on Western and global culture, literature, art, ethics, and religious thought. It is considered by believers to be a source of divine guidance, moral principles, historical insights, and spiritual wisdom. Different religious groups interpret and emphasize different aspects of the Bible, leading to various denominations and traditions within Judaism and Christianity.
 
@@ -51,6 +51,22 @@ Many religions and belief systems have their own sacred texts and scriptures tha
 9. **Native American Religions - Oral Traditions:** Many indigenous cultures have oral traditions that pass down sacred stories, teachings, and wisdom from generation to generation, rather than relying on written texts.
 
 These are just a few examples, and there are many other religious texts and scriptures in different traditions around the world, each with its own unique teachings and significance.
+
+### "Borrowing" from other texts
+
+Yes, the Bible contains texts and stories that scholars believe were influenced by or share similarities with earlier texts from various cultures and civilizations. Some of these texts predate the composition of the Bible and are thought to have influenced certain narratives and themes within its pages. It's important to note that "borrowing" in this context doesn't necessarily mean direct copying, but rather the presence of shared elements, motifs, and cultural influences. Here are a few examples:
+
+1. **Epic of Gilgamesh:** The Epic of Gilgamesh is an ancient Mesopotamian poem that predates many of the texts in the Bible. Some scholars believe that certain elements of the Genesis flood narrative in the Bible bear similarities to the flood story in the Epic of Gilgamesh. The themes of a great flood and a hero building an ark to save humanity appear in both stories.
+
+2. **Enuma Elish:** Enuma Elish is another ancient Mesopotamian creation myth that shares some thematic similarities with the opening chapters of Genesis. Both texts explore themes of creation, order, and the relationship between the divine and the material world.
+
+3. **Atrahasis Epic:** Similar to the flood story, the Atrahasis Epic is another Mesopotamian text that contains an account of a great flood and a hero who is instructed to build an ark to save life.
+
+4. **Ancient Near Eastern Law Codes:** Some elements of biblical law codes, such as the Code of Hammurabi, show similarities to laws found in the Bible. While the specific laws may differ, the general idea of codifying laws for societal order is present in both.
+
+5. **Egyptian Wisdom Literature:** Certain passages in the Bible's wisdom literature, such as the Book of Proverbs, share thematic similarities with ancient Egyptian wisdom literature, such as the Instructions of Amenemope.
+
+It's important to approach these similarities with an understanding of the cultural and literary context of the time. These shared elements often reflect the cultural exchange and interconnections between different civilizations in the ancient Near East. While these influences are recognized by scholars, they do not diminish the religious significance of the biblical texts for their respective faith traditions.
 
 ### Accuracy of the Bible
 
