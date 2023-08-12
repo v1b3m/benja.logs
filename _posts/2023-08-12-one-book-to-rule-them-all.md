@@ -10,6 +10,10 @@ header:
   image: /assets/images/00067-2695958150.jpg
 ---
 
+> The grass withers and the flowers fall, but the word of our God endures forever.”
+
+> <cite><a href="https://www.biblegateway.com/passage/?search=Isaiah%2040%3A8&version=NIV">Isaiah 40:8 (NIV)</a></cite>
+
 ### What is the Bible?
 
 The Bible is a collection of religious texts and scriptures considered sacred by Judaism and Christianity. It is composed of two main sections: the **Old Testament** and the **New Testament**. The contents of the Bible vary slightly between different religious traditions and denominations.
