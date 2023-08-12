@@ -14,6 +14,9 @@ header:
 
 > <cite><a href="https://www.biblegateway.com/passage/?search=Isaiah%2040%3A8&version=NIV">Isaiah 40:8 (NIV)</a></cite>
 
+**Author's Note:** **Author's Note:** Before diving into the exploration of this text, it's important to clarify that my intention is not to take a stance as pro or anti-Bible. Rather, I aim to embark on a journey of critical review and thoughtful contemplation about its text. This analysis is driven by a desire to engage in meaningful discourse and encourage open-minded exploration. Your insights and perspectives are welcomed as we embark on this intellectual endeavor together.
+{: .notice--primary}
+
 ### What is the Bible?
 
 The Bible is a collection of religious texts and scriptures considered sacred by Judaism and Christianity. It is composed of two main sections: the **Old Testament** and the **New Testament**. The contents of the Bible vary slightly between different religious traditions and denominations.
