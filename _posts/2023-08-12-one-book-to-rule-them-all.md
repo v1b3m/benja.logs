@@ -8,6 +8,7 @@ tags:
   - bible
 header:
   image: /assets/images/00067-2695958150.jpg
+toc: true
 ---
 
 > The grass withers and the flowers fall, but the word of our God endures forever.”
