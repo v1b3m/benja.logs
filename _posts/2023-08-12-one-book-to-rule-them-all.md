@@ -1,5 +1,5 @@
 ---
-title: "One Book to Rule Them All?!"
+title: "One Text to Rule Them All?!"
 categories:
   - Blog
 tags:
