@@ -46,18 +46,24 @@ I've also delved into the realm of generative A.I. art. I've been diving into th
 
 ### Distinguished Stable Diffusion Artworks
 
-#### 1. Model - deliberate_v2
+#### 1. Model - [Deliberate](https://civitai.com/models/4823/deliberate)
 
-{% include figure image_path="/assets/images/00070-945585894.png" alt="Signals and threads" %}
+{% include figure image_path="/assets/images/00079-3446361096.png" alt="Signals and threads" %}
 
-**Prompt:** A photorealistic image of a gorgeous young black girl sitting by a window, wearing a black bra with a translucent shirt over it. She has soft lips and clear skin.
-{: .notice}
+{% capture notice-2 %}
 
-#### 2. Model - Dreamshaper
+**Prompt:** black young girl, tie, cupcake in hands, school, indoors, soothing tones, hdr, intricate details, hyperrealistic 3d render, filmic, faded
 
-{% include figure image_path="/assets/images/00071-4003385977.png" alt="Signals and threads" %}
+**Negative Prompt** deformed, bad anatomy, disfigured, mutated, ugly, disgusting, poorly drawn, blurry, mutated hands and fingers, watermark, watermarked, oversaturated, censored, amputation, missing hands
+{% endcapture %}
 
-**Prompt:** An abandoned library lost in the heart of a dense forest. Vines curl around ancient bookshelves, sunlight filtering through foliage to cast patterns of knowledge and mystery on the mossy floor.
+<div class="notice">{{ notice-2 | markdownify }}</div>
+
+#### 2. Model - [Dreamshaper](https://huggingface.co/Lykon/DreamShaper)
+
+{% include figure image_path="/assets/images/00080-596638.png" alt="Signals and threads" %}
+
+**Prompt:** realistic high definition image little brown skinned preteen girl with black curly hair standing by a stack of books in black tshirt and bright pink jeans chewing bubble gum with pink back pack
 {: .notice}
 
 #### 3. Model - Elden-ring_v3
