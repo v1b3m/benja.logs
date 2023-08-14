@@ -16,5 +16,5 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
 end
 
-# gem "webrick"
-# gem "minimal-mistakes-jekyll"
+gem "webrick"
+gem "minimal-mistakes-jekyll"
