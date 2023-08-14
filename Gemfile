@@ -16,5 +16,6 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
 end
 
+# TODO: Comment these out when deploying to github_pages
 gem "webrick"
 gem "minimal-mistakes-jekyll"
