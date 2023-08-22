@@ -26,6 +26,8 @@ search: true
 
 # Build settings
 markdown: kramdown
+# TODO: We use the `remote_theme` for Github Pages, so when deploying to GHPages, uncomment the
+# next line and comment-out the line starting with `theme`
 remote_theme: mmistakes/minimal-mistakes
 # theme: minimal-mistakes-jekyll
 # Outputting
