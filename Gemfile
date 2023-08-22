@@ -17,5 +17,5 @@ group :jekyll_plugins do
 end
 
 # TODO: Comment these out when deploying to github_pages
-gem "webrick"
-gem "minimal-mistakes-jekyll"
+# gem "webrick"
+# gem "minimal-mistakes-jekyll"
