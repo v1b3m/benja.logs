@@ -6,15 +6,18 @@ tags:
   - node
   - nvm
   - fnm
+toc: true
 ---
 
-I had an issue where the node version just refused to change for some bizarre reason. After hours of struggle, I had an insight, "what if I have two clashing node version managers?"
+Have you ever encountered the frustration of trying to change your Node.js version, only to find it stubbornly refusing to budge? I recently found myself in such a predicament, and after hours of battling this perplexing issue, I had an epiphany: what if two conflicting Node version managers were causing the chaos?
 
-Turns out I was correct, a few days/weeks back I installed `fnm` as it was a requirement for some project I was hacking on. Well, turns out `fnm` took precedence over `nvm` and the node version being used was the one set via `fnm`
+As it turns out, my insight was spot on. A few days or weeks prior, I had installed `fnm` (Fast Node Manager) to meet the requirements of a project I was tinkering with. However, I soon realized that this seemingly innocent installation had taken the upper hand over my beloved `nvm` (Node Version Manager). Consequently, the version of Node being utilized was the one dictated by `fnm`.
 
-The commands are a lot simillar though, so for now, I'll just use `fnm`. I prefer `nvm` though.
+After some contemplation, I decided to temporarily resort to using `fnm` to alleviate the situation. Yet, I must admit, my preference remains firmly rooted in `nvm`.
 
-### `nvm` cheatsheet
+That's all for now, so just to spice things up a little bit. Here are some cheatsheets for both `nvm` and `fnm`
+
+## `nvm` cheatsheet
 
 Here's a basic cheatsheet for `nvm` (Node Version Manager), which is a popular tool for managing multiple versions of Node.js. Please note that `nvm` commands and usage may evolve over time, so always refer to the official documentation for the most up-to-date information.
 

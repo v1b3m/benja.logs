@@ -33,7 +33,11 @@ We need to secure our OAuth requests
 
 1. **Do our requests originate from a secure context**
 
-   Our requests originate from a local server that is running over http.
+   Our requests originate from a local server that is running over http. This may be the problem.
+
+   If this is the problem, then we need to have our requests originating from an https(secure) server. This is a complex process and I don't want to go there.
+
+   Can't we just determine the login type that a user is using within the app without having to actually use it.
 
 2. **Do our requests resolve to a secure context**
 
