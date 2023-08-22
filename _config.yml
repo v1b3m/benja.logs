@@ -28,8 +28,8 @@ search: true
 markdown: kramdown
 # TODO: We use the `remote_theme` for Github Pages, so when deploying to GHPages, uncomment the
 # next line and comment-out the line starting with `theme`
-# remote_theme: mmistakes/minimal-mistakes
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+# theme: minimal-mistakes-jekyll
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
