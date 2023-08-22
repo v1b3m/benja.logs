@@ -37,7 +37,7 @@ We need to secure our OAuth requests
 
    If this is the problem, then we need to have our requests originating from an https(secure) server. This is a complex process and I don't want to go there.
 
-   Can't we just determine the login type that a user is using within the app without having to actually use it.
+   Can't we just determine the login type that a user is using within the app without having to log in with all the various options available. This should be attainable.
 
 2. **Do our requests resolve to a secure context**
 
