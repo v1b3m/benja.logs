@@ -7,6 +7,8 @@ tags:
   - linked lists
   - loop detection
 toc: true
+header:
+  image: /assets/images/00090-2735675439.jpg
 ---
 
 ## PROBLEM
