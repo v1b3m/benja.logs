@@ -8,7 +8,7 @@ tags:
   - loop detection
 toc: true
 header:
-  image: /assets/images/00090-2735675439.jpg
+  image: /assets/images/dsa/00090-2735675439.jpg
 ---
 
 ## PROBLEM

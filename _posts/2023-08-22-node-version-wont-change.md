@@ -8,7 +8,7 @@ tags:
   - fnm
 toc: true
 header:
-  image: /assets/images/00092-1444720008.jpg
+  image: /assets/images/dsa/00092-1444720008.jpg
 ---
 
 Have you ever encountered the frustration of trying to change your Node.js version, only to find it stubbornly refusing to budge? I recently found myself in such a predicament, and after hours of battling this perplexing issue, I had an epiphany: what if two conflicting Node version managers were causing the chaos?
