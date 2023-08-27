@@ -12,7 +12,7 @@ toc: true
 
 ## PROBLEM
 
-**#2:** This problem was asked by Facebook.
+This problem was asked by Facebook.
 {: .notice--primary}
 
 
