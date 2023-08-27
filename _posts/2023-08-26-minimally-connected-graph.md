@@ -8,6 +8,8 @@ tags:
   - adjacency matrix
   - adjacency list
 toc: true
+header:
+  image: /assets/images/dsa/00100-2548103297.jpg
 ---
 
 ## PROBLEM
