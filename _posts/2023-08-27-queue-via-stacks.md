@@ -8,6 +8,8 @@ tags:
   - stack
   - queue
 toc: true
+header:
+  image: /assets/images/dsa/00111-916049104.jpg
 ---
 
 ## PROBLEM
