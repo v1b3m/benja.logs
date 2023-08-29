@@ -1,11 +1,10 @@
 ---
 title: "The Liberating Concept of Impermanence and Choice"
 categories:
-  - dsa
-  - problem
+  - life
 tags:
-  - queue
-  - linked list
+  - choice
+  - impermanence
 toc: true
 header:
   image: /assets/images/00120-808609644.jpg
