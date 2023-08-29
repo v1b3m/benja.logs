@@ -7,8 +7,8 @@ tags:
   - queue
   - linked list
 toc: true
-# header:
-#   image: /assets/images/dsa/00113-2615830643.jpg
+header:
+  image: /assets/images/dsa/00117-2661402125.jpg
 ---
 
 ## PROBLEM
