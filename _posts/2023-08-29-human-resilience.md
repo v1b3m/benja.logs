@@ -1,11 +1,10 @@
 ---
 title: "You'd Be Shocked What You Can Get Used To"
 categories:
-  - dsa
-  - problem
+  - life
 tags:
-  - queue
-  - linked list
+  - change
+  - adaptation
 toc: true
 header:
   image: /assets/images/00119-3999072349.jpg
