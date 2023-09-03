@@ -40,6 +40,7 @@ Here's the code implementing the algorithm:
 
 ```typescript
 function minTries(eggs: number, floors: number): number {
+  // dp (dynamic programming)
   let dp: number[][] = Array.from({ length: eggs + 1 }, () =>
     Array(floors + 1).fill(0)
   );
@@ -73,6 +74,34 @@ console.log(minTries(N, k)); // Output: 5
 
 This algorithm will find the minimum number of trial drops it will take, in the worst case, to identify the critical floor.
 
+### SKETCHBOOK
+
+```txt
+                 j(floors)
+            0    1    2    3
+          +----+----+----+---+
+        0 | 0  | 0  | 0  | 0 |
+          +----+----+----+---+
+        1 | 0  | 1  | 2  | 3 |
+i (eggs)  +----+----+----+---+
+        2 | 0  | 0  |    |   |
+          +----+----+----+---+
+        3 | 0  | 0  |    |   |
+          +----+----+----+---+
+```
+
+- For one egg, worst case is you have to drop the egg  on the last floor
+
+  ```js
+  dp[1][j] = j;
+  ```
+
+- For the other floors, assuming you've dropped an egg. The worst case is the chance you've already taken (1) plus the worst case of if the egg breaks or not
+
+  ```txt
+  1 + max(egg breaks, egg doesn't break)
+  1 + Math.max(dp[i - 1][x - 1], dp[i][j - x]);
+  ```
 
 ## AN INTRODUCTION TO DYNAMIC PROGRAMMING
 
@@ -112,7 +141,18 @@ $$0, 1, 1, 2, 3, 5, 8, 13, 21, 34, ... $$
 So, for instance:
 
 
-$$- F(0) \, is \, 0$$
+<!-- $$
+\begin{itemize}
+    \item $F(0)$ is 0
+    \item $F(1)$ is 1
+    \item $F(2)$ is $F(1) + F(0)$ = 1
+    \item $F(3)$ is $F(2) + F(1)$ = 2
+    \item $F(4)$ is $F(3) + F(2)$ = 3
+    \item ... and so on.
+\end{itemize}
+$$ -->
+
+$$-  F(0) is 0 $$
 
 $$- F(1) \, is \, 1$$
 
@@ -124,8 +164,7 @@ $$- F(4) \, is \, F(3) + F(2) = 3$$
 
 $$- ... and \, so \, on.$$
 
-
-This sequence has a vast array of applications and interesting properties. It appears in various areas such as mathematics, computer science, and even in nature, where the pattern of leaves, flowers, and fruits often follows the Fibonacci sequence. The sequence is also closely associated with the "Golden Ratio" (\( \phi \)), which has unique mathematical properties and appears in various natural phenomena and works of art.
+This sequence has a vast array of applications and interesting properties. It appears in various areas such as mathematics, computer science, and even in nature, where the pattern of leaves, flowers, and fruits often follows the Fibonacci sequence. The sequence is also closely associated with the "Golden Ratio" ($$ \phi $$), which has unique mathematical properties and appears in various natural phenomena and works of art.
 
 1. **Memoization (Top-down approach)**:
 
@@ -173,7 +212,3 @@ console.log(fibonacciTab(10));  // Output: 55
 ```
 
 Both methods will compute the nth Fibonacci number efficiently, but they differ in the way they approach the problem. Memoization is a more intuitive approach for many people since it's closer to the problem's recursive structure, while tabulation usually offers slightly better space efficiency and is more straightforward to convert to an iterative algorithm.
-
-<!-- <script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script> -->
