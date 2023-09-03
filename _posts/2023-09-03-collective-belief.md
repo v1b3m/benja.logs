@@ -37,3 +37,7 @@ Carl Jung's idea of a collective consciousness suggests that societies possess o
 While the potency of collective beliefs is undeniable, it's crucial to approach them with discernment. Societal beliefs can be as destructive as they are constructive. Historical instances of mass hysteria, prejudice, and destructive ideologies attest to the need for a balanced, informed, and compassionate approach to shared narratives.
 
 In conclusion, the power of collective belief underscores the interconnectedness of individual and societal realities. By recognizing and harnessing this influence, societies can foster environments that reflect their highest values and aspirations.
+
+## Resources
+
+- [When you change your paradigms, your reality changes with it...](https://www.tiktok.com/@youarecreatorsofficial/video/7270546986976185643)
