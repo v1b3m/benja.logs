@@ -9,7 +9,7 @@ tags:
   - maths
 toc: true
 header:
-  # image: /assets/images/00126-366256673.jpg
+  image: /assets/images/dsa/00128-1337653736.jpg
 ---
 
 ## SOLUTION

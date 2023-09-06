@@ -7,7 +7,7 @@ tags:
   - reality
 toc: true
 header:
-  # image: /assets/images/00126-366256673.jpg
+  image: /assets/images/00137-535511161.jpg
 ---
 
 In a world driven by objective data and empirical evidence, the profound influence of collective beliefs on societal constructs often remains underappreciated. Whether we're conscious of it or not, what a group of people deem to be true can significantly shape societal norms, values, and realities.
