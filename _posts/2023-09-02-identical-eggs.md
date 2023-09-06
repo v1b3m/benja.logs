@@ -7,7 +7,7 @@ tags:
   - dynamic programming
 toc: true
 header:
-  # image: /assets/images/dsa/00117-2661402125.jpg
+  image: /assets/images/dsa/00139-2953403899.jpg
 mathjax: true
 ---
 

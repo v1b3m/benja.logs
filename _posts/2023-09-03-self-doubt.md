@@ -7,7 +7,7 @@ tags:
   - practice
 toc: true
 header:
-  # image: /assets/images/00126-366256673.jpg
+  image: /assets/images/00136-3129957080.jpg
 ---
 
 We all experience moments when the voice in our heads questions our competence, intentions, or worth. This voice—often termed as self-doubt—can be a transient whisper or a crippling shout. Despite being a universal human experience, unchecked self-doubt can impede our progress, aspirations, and overall well-being. However, as many find through the pursuit of mastering a skill, one of the most potent antidotes to self-doubt is consistent practice and commitment to personal growth.
