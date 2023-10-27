@@ -8,7 +8,7 @@ tags:
   - equalizer
 toc: true
 header:
-  image: /assets/images/00140-1728977690.jpg
+  image: /assets/images/2023-10-27-time.jpg
 ---
 
 **Time:** it is perhaps the most mysterious and relentless force known to humanity. An abstraction and yet the most tangible evidence of our own existence, time is both our ally and our adversary. It gifts us moments of joy, while also counting down to inevitable farewells.

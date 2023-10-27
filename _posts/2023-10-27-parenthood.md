@@ -8,7 +8,7 @@ tags:
   - growth
 toc: true
 header:
-  image: /assets/images/00140-1728977690.jpg
+  image: /assets/images/family-8169281_1280.jpg
 ---
 
 From the moment a child is born, a profound transformation occurs. Two individuals become parents, and in that transformation, they embark on a journey of selfless love, sacrifice, and lifelong commitment. This journey is the crucible of parenthood, a bond that remains unparalleled in its depth and complexity.
